@@ -1,0 +1,38 @@
+export default {
+  fonts: {
+    bold: 'SF-Pro-Display-Bold',
+    light: 'SF-Pro-Display-Light',
+    medium: 'SF-Pro-Display-Medium',
+    regular: 'SF-Pro-Display-Regular',
+    semiBold: 'SF-Pro-Display-Semibold',
+    thin: 'SF-Pro-Display-thin',
+  },
+  fontSizes: {
+    48: '48px',
+    32: '32px',
+    24: '24px',
+    16: '16px',
+    14: '14px',
+    12: '12px',
+  },
+  lineHeight: {
+    16: '16px',
+    22: '22px',
+    24: '24px',
+    30: '30px',
+    32: '32px',
+    40: '40px',
+    56: '56px',
+  },
+  colors: {
+    white: '#FFFFFF',
+    black: '#000000',
+    primary: '#2F50C1',
+    royalBlue: '#2F50C1',
+    royalBlue400: '#6E91EC',
+    deepDenim: '#4561DB',
+    grey: '#757281',
+    inputBg: '#F4F2F880',
+    cyan: '#58536E',
+  },
+};
